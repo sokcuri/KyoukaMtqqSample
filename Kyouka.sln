@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyouka", "Kyouka\Kyouka.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyoukaTest", "KyoukaTest\KyoukaTest.csproj", "{4D5ABE5E-7173-4099-A190-5C0F6D530322}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyoukaSimpleTest", "KyoukaSimpleTest\KyoukaSimpleTest.csproj", "{71E15013-F6B4-41A0-BE16-178F226EA6AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D5ABE5E-7173-4099-A190-5C0F6D530322}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D5ABE5E-7173-4099-A190-5C0F6D530322}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D5ABE5E-7173-4099-A190-5C0F6D530322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E15013-F6B4-41A0-BE16-178F226EA6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E15013-F6B4-41A0-BE16-178F226EA6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E15013-F6B4-41A0-BE16-178F226EA6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E15013-F6B4-41A0-BE16-178F226EA6AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
